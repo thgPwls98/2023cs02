@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002. BMI 계산기", "002. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003. print2values", "003. print2values\003. print2values.csproj", "{097337FC-30AA-45D1-96F2-B59ED97BBAEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004. Hello", "004. Hello\004. Hello.csproj", "{5F02739D-E7FF-4559-BD9B-A8693BC79DDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005.Login", "005.Login\005.Login.csproj", "{20F3A2B3-272B-4EF9-84A5-51DA6883AEA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{097337FC-30AA-45D1-96F2-B59ED97BBAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{097337FC-30AA-45D1-96F2-B59ED97BBAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{097337FC-30AA-45D1-96F2-B59ED97BBAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F02739D-E7FF-4559-BD9B-A8693BC79DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F02739D-E7FF-4559-BD9B-A8693BC79DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F02739D-E7FF-4559-BD9B-A8693BC79DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F02739D-E7FF-4559-BD9B-A8693BC79DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F3A2B3-272B-4EF9-84A5-51DA6883AEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F3A2B3-272B-4EF9-84A5-51DA6883AEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F3A2B3-272B-4EF9-84A5-51DA6883AEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F3A2B3-272B-4EF9-84A5-51DA6883AEA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

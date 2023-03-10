@@ -30,86 +30,113 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.label4 = new System.Windows.Forms.Label();
+            this.lblBMI = new System.Windows.Forms.Label();
+            this.txtH = new System.Windows.Forms.TextBox();
+            this.txtW = new System.Windows.Forms.TextBox();
+            this.btnBMI = new System.Windows.Forms.Button();
+            this.lblresult = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label1.Location = new System.Drawing.Point(51, 78);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(45, 12);
+            this.label1.Size = new System.Drawing.Size(44, 15);
             this.label1.TabIndex = 0;
             this.label1.Text = "키(cm)";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label2.Location = new System.Drawing.Point(51, 132);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(52, 12);
+            this.label2.Size = new System.Drawing.Size(52, 15);
             this.label2.TabIndex = 1;
             this.label2.Text = "체중(kg)";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
-            // label3
+            // lblBMI
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(51, 208);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(0, 12);
-            this.label3.TabIndex = 2;
+            this.lblBMI.AutoSize = true;
+            this.lblBMI.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.lblBMI.Location = new System.Drawing.Point(51, 221);
+            this.lblBMI.Name = "lblBMI";
+            this.lblBMI.Size = new System.Drawing.Size(40, 15);
+            this.lblBMI.TabIndex = 2;
+            this.lblBMI.Text = "BMI= ";
+            this.lblBMI.Click += new System.EventHandler(this.lblBMI_Click);
             // 
-            // textBox1
+            // txtH
             // 
-            this.textBox1.Location = new System.Drawing.Point(162, 69);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 21);
-            this.textBox1.TabIndex = 3;
+            this.txtH.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.txtH.Location = new System.Drawing.Point(162, 69);
+            this.txtH.Name = "txtH";
+            this.txtH.Size = new System.Drawing.Size(100, 23);
+            this.txtH.TabIndex = 3;
+            this.txtH.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
-            // textBox2
+            // txtW
             // 
-            this.textBox2.Location = new System.Drawing.Point(162, 129);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 21);
-            this.textBox2.TabIndex = 4;
+            this.txtW.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.txtW.Location = new System.Drawing.Point(162, 129);
+            this.txtW.Name = "txtW";
+            this.txtW.Size = new System.Drawing.Size(100, 23);
+            this.txtW.TabIndex = 4;
+            this.txtW.TextChanged += new System.EventHandler(this.txtW_TextChanged);
             // 
-            // button1
+            // btnBMI
             // 
-            this.button1.Location = new System.Drawing.Point(173, 176);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 5;
-            this.button1.Text = "BMI 계산";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnBMI.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.btnBMI.Location = new System.Drawing.Point(173, 176);
+            this.btnBMI.Name = "btnBMI";
+            this.btnBMI.Size = new System.Drawing.Size(75, 23);
+            this.btnBMI.TabIndex = 5;
+            this.btnBMI.Text = "BMI 계산";
+            this.btnBMI.UseVisualStyleBackColor = true;
+            this.btnBMI.Click += new System.EventHandler(this.button1_Click);
             // 
-            // label4
+            // lblresult
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(62, 259);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(38, 12);
-            this.label4.TabIndex = 6;
-            this.label4.Text = "label4";
+            this.lblresult.AutoSize = true;
+            this.lblresult.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.lblresult.Location = new System.Drawing.Point(51, 251);
+            this.lblresult.Name = "lblresult";
+            this.lblresult.Size = new System.Drawing.Size(38, 15);
+            this.lblresult.TabIndex = 6;
+            this.lblresult.Text = "판정: ";
+            this.lblresult.Click += new System.EventHandler(this.lblresult_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(274, 213);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(66, 61);
+            this.pictureBox1.TabIndex = 7;
+            this.pictureBox1.TabStop = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(414, 450);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.label3);
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.lblresult);
+            this.Controls.Add(this.btnBMI);
+            this.Controls.Add(this.txtW);
+            this.Controls.Add(this.txtH);
+            this.Controls.Add(this.lblBMI);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "BMI 계산기";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -119,11 +146,12 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label lblBMI;
+        private System.Windows.Forms.TextBox txtH;
+        private System.Windows.Forms.TextBox txtW;
+        private System.Windows.Forms.Button btnBMI;
+        private System.Windows.Forms.Label lblresult;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 
