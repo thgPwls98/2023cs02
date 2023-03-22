@@ -1,0 +1,11 @@
+C:\Users\konyang\Desktop\2023cs02-main\015.chart\bin\Debug\015.chart.exe.config
+C:\Users\konyang\Desktop\2023cs02-main\015.chart\bin\Debug\015.chart.exe
+C:\Users\konyang\Desktop\2023cs02-main\015.chart\bin\Debug\015.chart.pdb
+C:\Users\konyang\Desktop\2023cs02-main\015.chart\obj\Debug\015.chart.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\2023cs02-main\015.chart\obj\Debug\015.chart.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\2023cs02-main\015.chart\obj\Debug\_015.chart.Form1.resources
+C:\Users\konyang\Desktop\2023cs02-main\015.chart\obj\Debug\_015.chart.Properties.Resources.resources
+C:\Users\konyang\Desktop\2023cs02-main\015.chart\obj\Debug\015.chart.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\2023cs02-main\015.chart\obj\Debug\015.chart.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\2023cs02-main\015.chart\obj\Debug\015.chart.exe
+C:\Users\konyang\Desktop\2023cs02-main\015.chart\obj\Debug\015.chart.pdb

@@ -1,0 +1,11 @@
+C:\Users\konyang\Desktop\2023cs02-main\016. 2ChartAreas\obj\Debug\016. 2ChartAreas.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\2023cs02-main\016. 2ChartAreas\obj\Debug\016. 2ChartAreas.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\2023cs02-main\016. 2ChartAreas\obj\Debug\_016._2ChartAreas.Form1.resources
+C:\Users\konyang\Desktop\2023cs02-main\016. 2ChartAreas\obj\Debug\_016._2ChartAreas.Properties.Resources.resources
+C:\Users\konyang\Desktop\2023cs02-main\016. 2ChartAreas\obj\Debug\016. 2ChartAreas.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\2023cs02-main\016. 2ChartAreas\obj\Debug\016. 2ChartAreas.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\2023cs02-main\016. 2ChartAreas\bin\Debug\016. 2ChartAreas.exe.config
+C:\Users\konyang\Desktop\2023cs02-main\016. 2ChartAreas\bin\Debug\016. 2ChartAreas.exe
+C:\Users\konyang\Desktop\2023cs02-main\016. 2ChartAreas\bin\Debug\016. 2ChartAreas.pdb
+C:\Users\konyang\Desktop\2023cs02-main\016. 2ChartAreas\obj\Debug\016. 2ChartAreas.exe
+C:\Users\konyang\Desktop\2023cs02-main\016. 2ChartAreas\obj\Debug\016. 2ChartAreas.pdb

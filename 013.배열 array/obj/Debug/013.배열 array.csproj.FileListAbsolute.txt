@@ -1,0 +1,8 @@
+C:\Users\konyang\Desktop\2023cs02-main\013.배열 array\bin\Debug\013.배열 array.exe.config
+C:\Users\konyang\Desktop\2023cs02-main\013.배열 array\bin\Debug\013.배열 array.exe
+C:\Users\konyang\Desktop\2023cs02-main\013.배열 array\bin\Debug\013.배열 array.pdb
+C:\Users\konyang\Desktop\2023cs02-main\013.배열 array\obj\Debug\013.배열 array.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\2023cs02-main\013.배열 array\obj\Debug\013.배열 array.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\2023cs02-main\013.배열 array\obj\Debug\013.배열 array.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\2023cs02-main\013.배열 array\obj\Debug\013.배열 array.exe
+C:\Users\konyang\Desktop\2023cs02-main\013.배열 array\obj\Debug\013.배열 array.pdb

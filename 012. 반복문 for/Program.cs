@@ -71,6 +71,18 @@ namespace _012.반복문_for
             }
             Console.WriteLine("{0}의 {1}승={2}", x,y,exp);
 
+            //팩토리얼(3/22)
+            //n!= 1*2*...*n
+            Console.WriteLine("n! 계산, n을 입력: ");
+            n = int.Parse(Console.ReadLine());
+
+            int fact = 1;
+
+            for (int i = 1; i < n; i++)
+            {
+                fact = fact * i;
+            }
+            Console.WriteLine("{0}! = {1}", n, fact);
         }
     }
 }

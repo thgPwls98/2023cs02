@@ -1,0 +1,8 @@
+C:\Users\konyang\Desktop\2023cs02-main\012. 반복문 for\bin\Debug\_012.반복문_for.exe.config
+C:\Users\konyang\Desktop\2023cs02-main\012. 반복문 for\bin\Debug\_012.반복문_for.exe
+C:\Users\konyang\Desktop\2023cs02-main\012. 반복문 for\bin\Debug\_012.반복문_for.pdb
+C:\Users\konyang\Desktop\2023cs02-main\012. 반복문 for\obj\Debug\012. 반복문 for.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\2023cs02-main\012. 반복문 for\obj\Debug\012. 반복문 for.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\2023cs02-main\012. 반복문 for\obj\Debug\012. 반복문 for.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\2023cs02-main\012. 반복문 for\obj\Debug\_012.반복문_for.exe
+C:\Users\konyang\Desktop\2023cs02-main\012. 반복문 for\obj\Debug\_012.반복문_for.pdb
