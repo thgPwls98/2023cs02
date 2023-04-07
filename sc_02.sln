@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018. graph", "018. graph\01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019. Timer", "019. Timer\019. Timer.csproj", "{9943BB23-360D-4164-975F-0858DF72F04C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020. form clock", "020. form clock\020. form clock.csproj", "{D37ADCBF-9EFE-4117-8402-5CACE3424B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021. Firebase", "021. Firebase\021. Firebase.csproj", "{91455464-BBBD-46C1-A057-A0A8CA020406}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{9943BB23-360D-4164-975F-0858DF72F04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9943BB23-360D-4164-975F-0858DF72F04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9943BB23-360D-4164-975F-0858DF72F04C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37ADCBF-9EFE-4117-8402-5CACE3424B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37ADCBF-9EFE-4117-8402-5CACE3424B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37ADCBF-9EFE-4117-8402-5CACE3424B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37ADCBF-9EFE-4117-8402-5CACE3424B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91455464-BBBD-46C1-A057-A0A8CA020406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91455464-BBBD-46C1-A057-A0A8CA020406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91455464-BBBD-46C1-A057-A0A8CA020406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91455464-BBBD-46C1-A057-A0A8CA020406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
