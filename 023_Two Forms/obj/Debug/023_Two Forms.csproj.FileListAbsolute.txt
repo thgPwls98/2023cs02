@@ -1,0 +1,12 @@
+C:\Users\konyang\Desktop\02 소혜진\023_Two Forms\bin\Debug\023_Two Forms.exe.config
+C:\Users\konyang\Desktop\02 소혜진\023_Two Forms\bin\Debug\023_Two Forms.exe
+C:\Users\konyang\Desktop\02 소혜진\023_Two Forms\bin\Debug\023_Two Forms.pdb
+C:\Users\konyang\Desktop\02 소혜진\023_Two Forms\obj\Debug\023_Two Forms.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\02 소혜진\023_Two Forms\obj\Debug\023_Two Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\02 소혜진\023_Two Forms\obj\Debug\_023_Two_Forms.Form1.resources
+C:\Users\konyang\Desktop\02 소혜진\023_Two Forms\obj\Debug\_023_Two_Forms.Form2.resources
+C:\Users\konyang\Desktop\02 소혜진\023_Two Forms\obj\Debug\_023_Two_Forms.Properties.Resources.resources
+C:\Users\konyang\Desktop\02 소혜진\023_Two Forms\obj\Debug\023_Two Forms.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\02 소혜진\023_Two Forms\obj\Debug\023_Two Forms.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\02 소혜진\023_Two Forms\obj\Debug\023_Two Forms.exe
+C:\Users\konyang\Desktop\02 소혜진\023_Two Forms\obj\Debug\023_Two Forms.pdb
