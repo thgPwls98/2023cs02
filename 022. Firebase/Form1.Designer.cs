@@ -56,6 +56,7 @@
             this.dataGridView1.RowTemplate.Height = 23;
             this.dataGridView1.Size = new System.Drawing.Size(550, 240);
             this.dataGridView1.TabIndex = 0;
+
             // 
             // lblId
             // 
@@ -138,7 +139,7 @@
             this.btnViewAll.TabIndex = 9;
             this.btnViewAll.Text = "View All";
             this.btnViewAll.UseVisualStyleBackColor = true;
-  
+            this.btnViewAll.Click += new System.EventHandler(this.btnViewAll_Click);
             // 
             // btnDeleteAll
             // 
