@@ -40,5 +40,11 @@ namespace _023_Two_Forms
             f.label1.Text = textBox1.Text;
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Common.str = textBox1.Text;
+            Common.value = 1024;
+        }
     }
 }

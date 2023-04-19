@@ -31,5 +31,16 @@ namespace _023_Two_Forms
         {
             label1.Text = f.textBox1.Text;
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(Common.str + "\n" + Common.value);
+        }
     }
+    public static class Common
+    {
+        public static string str = "";
+        public static int value = 0;
+    }
+
 }
